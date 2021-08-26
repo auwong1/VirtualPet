@@ -1,12 +1,24 @@
-
 void setup(){
-  //some of your code here
-  size(400,400);
+size(400,400);
 }
 void draw(){
-  //more of your code here
-  fill(165,80,42);
-ellipse(200,150,200,200);
+fill(165,80,42);
 ellipse(125,70,75,75);
+ellipse(275,70,75,75);
+ellipse(125,260,80,40);
+ellipse(275,260,80,40);
+ellipse(165,350,40,80);
+ellipse(235,350,40,80);
+ellipse(200,280,130,150);
+ellipse(200,150,200,200);
+fill(207,185,151);
+ellipse(200,180,100,100);
+fill(1,1,1);
+ellipse(200,160,40,40);
+line(200,160,200,200);
+line(200,200,180,210);
+line(200,200,220,210);
+strokeWeight(5);
+ellipse(150,110,30,40);
+ellipse(250,110,30,40);
 }
-
